@@ -98,6 +98,6 @@ LICENSE
 
 ## 👨‍💻 Author
 
-**Aryan Kumar**
+**Meghan Gowda B Y**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel | Machine Learning
